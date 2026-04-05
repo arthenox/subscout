@@ -23,7 +23,7 @@ BANNER = """
   ███████║╚██████╔╝██████╔╝███████║╚██████╗╚██████╔╝╚██████╔╝   ██║   
   ╚══════╝ ╚═════╝ ╚══════╝ ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝    ╚═╝   
 [/bold cyan]
-[dim]Subdomain Scanner[/dim]
+[dim]Subdomain Scanner by arthenox[/dim]
 """
 
 def get_crtsh(domain):
